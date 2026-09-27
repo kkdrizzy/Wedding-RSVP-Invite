@@ -1,6 +1,0 @@
-- generic [active]:
-  - button "Toggle background music" [ref=f1e1] [cursor=pointer]
-  - generic [ref=f1e4] [cursor=pointer]:
-    - generic:
-      - generic: Aamod & Tanya
-      - generic: Loading your invitation
